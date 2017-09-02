@@ -14,9 +14,9 @@ Application was developed in Python for a Movie Trailer Website. This a program 
 ___
    * Install Python-2.x. [download here](https://www.python.org/downloads/)
    * Copy all the files to the same directory in your computer:
-fresh_tomatoes.py  
-entertainment_center.py 
-media. py 
+ fresh_tomatoes.py  
+ entertainment_center.py 
+ media. py 
 ### Running The Program
 ___
 In Windows open _command prompt_ and search for the directory that contains saved files, then type
