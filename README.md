@@ -1,5 +1,6 @@
 
 
+
 # Movie Trailer Website Project
 ___
 First project for Udacity Full Stack Web Developer Non-degree program.
@@ -16,8 +17,10 @@ ___
    * Install Python-2.x. [download here](https://www.python.org/downloads/)
    * Copy all the files to the same directory in your computer:
    
- fresh_tomatoes.py  
+ fresh_tomatoes.py 
+ 
  entertainment_center.py 
+ 
  media. py 
 ### Running The Program
 ___
